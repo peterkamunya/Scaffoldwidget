@@ -1,0 +1,1 @@
+in this project we have a scaffold widget which acts like a wrapper  to other widget .also we have the styleing property that is adding letter spacing,background color,coors,fontweightmfont size and font familily.
